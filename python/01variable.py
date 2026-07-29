@@ -203,4 +203,48 @@ print (degree)
 print (college)
 print (graduation_year)
 print (email)
-print (phone)
+print (phone) 
+
+# ==========================================
+# VARIABLES - CHEAT SHEET
+# ==========================================
+
+# Definition:
+# A variable is a named memory location used to store data.
+
+# Syntax:
+# variable_name = value
+
+# Example:
+# name = "Asifa"
+# age = 22
+
+# Assignment Operator:
+# =
+
+# Print:
+# print(variable_name)
+
+# Multiple Variable Assignment:
+# x, y = 10, 20
+
+# Same Value Assignment:
+# a = b = c = 100
+
+# Reassignment:
+# age = 22
+# age = 23
+
+# Naming Rules:
+# ✅ Start with letter or underscore (_)
+# ✅ Can contain letters, numbers and underscores
+# ❌ Cannot start with number
+# ❌ No spaces
+# ❌ No special characters
+
+# Best Practice:
+# Use meaningful names.
+# Follow snake_case.
+
+# Example:
+# student_name = "Asifa"
